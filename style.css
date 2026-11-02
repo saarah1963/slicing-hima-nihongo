@@ -197,7 +197,7 @@ nav {
    font-size: 32px;
    line-height: 40px;
    text-align: center;
-   margin-bottom: auto var(--space-10);
+   margin-bottom: var(--space-10);
 }
 .card-list {
    display: flex;
@@ -249,7 +249,7 @@ nav {
 
 .cta-title {
   font-family: var(--font-heading);
-  font-size: 24px;          /* H3 = 24 / 32 */
+  font-size: 24px;       
   line-height: 32px;
   font-weight: 700;
   color: var(--color-text-inverse);
@@ -272,7 +272,7 @@ nav {
 .footer-inner {
   display: flex;
   justify-content: space-between;
-  font-size: 12px;          /* Caption = 12 / 18 */
+  font-size: 12px;          
   line-height: 18px;
   color: var(--color-text-secondary);
 }
